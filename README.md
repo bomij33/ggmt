@@ -3,7 +3,7 @@
 <br><br>
 
 ## 1.패들랫 링크 
-https://seongsuhigh.padlet.org/teacher92/98b2enjwowym902d
+[click here! : padelt link ](https://seongsuhigh.padlet.org/teacher92/98b2enjwowym902d)
 <br>
 - 분류 학습 데이터 : 과일 이미지 데이터
 - 객체 감지 학습 데이터 : 횡단보도, 보행자 이미지 데이터 등
