@@ -14,8 +14,3 @@
 https://colab.research.google.com/github/bomij33/ggmt/blob/main/deep_learning/mnist.ipynb)
 - mnist 평가  #2 : [mnist_predict](./deep_learning/mnist_predict.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bomij33/ggmt/blob/main/deep_learning/mnist.ipynb)
 
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-)
-<br>
-
