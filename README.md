@@ -17,8 +17,6 @@ https://colab.research.google.com/github/bomij33/ggmt/blob/main/deep_learning/mn
 
 <br><br>
 
-## 3.mnist code 전체
-- mnist 학습 & 평가 [mnist_all.ipynb](./deep_learning/mnist_all.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/bomij33/ggmt/blob/main/deep_learning/mnist_all.ipynb)
+
 
 
